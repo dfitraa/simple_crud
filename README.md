@@ -1,1 +1,1 @@
-# simple_crud
+CRUD sederhana dengan PHP dan HTML
